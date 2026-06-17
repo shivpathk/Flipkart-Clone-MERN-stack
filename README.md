@@ -47,3 +47,22 @@ A full-stack Flipkart clone designed to provide seamless e-commerce functionalit
 - **Email Service**: SendGrid for transactional emails
 - **State Management**: Context API or Redux
 - **Hosting**: AWS, Vercel, or Netlify
+
+
+VITE_API
+http://localhost:8080
+
+
+VITE_STRIPE_PUBLISH_KEY
+YOUR_STRIPE_PUBLISH_KEY
+
+
+
+VITE_STRIPE_SECRET_KEY
+YOUR_STRIPE_SECRET_KEY
+
+
+
+VITE_SERVER_URL
+https://flipkart-clone-mern-stack-lail.onrender.com
+
